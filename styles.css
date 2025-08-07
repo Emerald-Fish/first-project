@@ -1,0 +1,37 @@
+body {
+    background-color: #eb43ee;
+    min-height: 200px;
+    min-width: 200px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    margin: auto;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: #1fd519;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eb43ee;
+    width: 70.71px;
+    height: 70.71px;
+    opacity: 0.7;
+}
+
+.why {
+
+    font-family: serif;
+    font-weight: 300;
+    font-size: 50px;
+}
